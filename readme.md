@@ -1,20 +1,15 @@
 ## Exercice 1 - Node.js
 
 ### Pour l'exécuter
-\`\`\`bash
 node index.js
-\`\`\`
 
 ---
 
 ## Exercice 2 - React
 
 ### Pour l'exécuter
-\`\`\`bash
-# Se placer dans le dossier du projet
 npm install
 npm run dev
-\`\`\`
 
 ---
 
@@ -40,10 +35,7 @@ Pour optimiser les requêtes Firestore, il faut deux index composites :
 - Coût Firestore optimisé (moins de lectures inutiles).  
 
 ### Pour l'exécuter
-\`\`\`bash
-# Se placer dans le dossier du projet
 npm install
 npm run dev
-\`\`\`
 
 ---
